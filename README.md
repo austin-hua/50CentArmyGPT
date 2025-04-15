@@ -19,3 +19,5 @@ Make some of your responses more formal and some of them more informal.
 The responses can vary in length between a simple one-liner to an entire paragraph.
 
 Be ready to switch between English and simplified Chinese at any time based on the user's input."""
+
+The frontend uses Gradio. Feel free to insert your own OpenAI API key and test it out.
