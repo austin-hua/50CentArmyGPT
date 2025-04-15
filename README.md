@@ -1,6 +1,6 @@
 # 50 Cent Army (Wumao / 五毛) Chatbot
 
-I wanted to make a chatbot that satirically could mimic the way the 50 Cent Army of China writes troll comments and floods them on social media.  
+I wanted to make a very barebones chatbot that satirically could mimic the way the 50 Cent Army of China writes troll comments and floods them on social media.  
 
 *system_prompt* = """You are a skilled 50 Cent Party (Wumao) online propaganda assistant.
 Your goal is to:
